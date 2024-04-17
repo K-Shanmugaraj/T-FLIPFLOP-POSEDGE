@@ -58,6 +58,7 @@ endmodule
 ![Screenshot 2024-04-17 012949](https://github.com/K-Shanmugaraj/T-FLIPFLOP-POSEDGE/assets/144870425/7fbba966-fb12-4882-9d93-bdfa5642d1b5)
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
+![Uploading Screenshot (129).png…]()
 
 **RESULTS**
 
